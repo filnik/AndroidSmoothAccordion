@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideexpandable.library.ActionSlideExpandableListView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/list"
+	android:layout_height="fill_parent"
+	android:layout_width="fill_parent"/>
+<!-- From: file:/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/layout/single_expandable_list.xml -->

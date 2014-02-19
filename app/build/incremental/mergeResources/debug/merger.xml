@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res" >
+            <file
+                name="icon"
+                path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="icon"
+                path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="expandable_list_item"
+                path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/layout/expandable_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_row"
+                path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/layout/list_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="single_expandable_list"
+                path="/home/fil/Scaricati/ExpandAnimationExample/app/src/main/res/layout/single_expandable_list.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/fil/Scaricati/ExpandAnimationExample/app/build/res/rs/debug" />
+        <source path="/home/fil/Scaricati/ExpandAnimationExample/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/fil/Scaricati/ExpandAnimationExample/app/src/debug/res" />
+    </dataSet>
+
+</merger>

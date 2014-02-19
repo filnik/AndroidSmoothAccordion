@@ -1,0 +1,10 @@
+<!-- From: file:/home/fil/Scaricati/ExpandAnimationExample/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.udinic.expand_animation_example">
+    <application android:icon="@drawable/icon" android:label="ciao">
+        <activity android:label="ciao" android:name="slideexpandable.library.ExampleActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
